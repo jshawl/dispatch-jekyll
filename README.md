@@ -23,4 +23,5 @@ The working state of the project, including design in process, features undergoi
 
 ### backend
 
-Contains backend code for connecting to and interacting with the GitHub API. ~~To setup locally, you will need to configure a virtual host with the url `juic.ms`, as this URL is the one that's configured with our application on GitHub. This is subject to change in the future.~~ **under review**
+Contains backend code for connecting to and interacting with the GitHub API. On hold until frontend UI is demo-able
+
